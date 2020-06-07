@@ -35,7 +35,7 @@ h1, h2, span {
     width: 100%;
     top: 450px;
     font-size: 90px;
-    background: -webkit-linear-gradient(90deg, #ceadfc 0%, #ffffff 100%);
+    background: -webkit-linear-gradient(90deg, #ceadfc 0%, white 100%);
     -webkit-background-clip: text;
     background-clip: text;
     -webkit-text-fill-color: transparent;
